@@ -1,12 +1,8 @@
 # Activity 1.3
 
-Systems Engineer:  
+**Software Developer:**  
 
 
-Software Engineer:  
-
-
-Software Tester:  
-  
-
+**Website Developer:**  
+Includes both code and design aspects
 
