@@ -1,3 +1,7 @@
+---
+description: Making use of IT in the business environment
+---
+
 # Activity 1.2
 
 **Making use of IT in the business environment**  

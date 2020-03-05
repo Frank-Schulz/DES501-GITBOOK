@@ -1,3 +1,7 @@
+---
+description: Different types of IT businesses
+---
+
 # Activity 1.1
 
 To name a few, IT businesses today provide things like: Broadband, database systems, General IT services, cyber security, app/digital interface building, accounting software, online learning/gaming, etc.
