@@ -10,4 +10,5 @@
 * [Activity 3.1](activity-3.1.md)
 * [Activity 3.2](activity-3.2.md)
 * [Activity 4.1](activity-4.1.md)
+* [Activity 4.2](activity-4.2.md)
 
