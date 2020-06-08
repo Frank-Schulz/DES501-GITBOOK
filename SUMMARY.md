@@ -11,4 +11,10 @@
 * [Activity 3.2](activity-3.2.md)
 * [Activity 4.1](activity-4.1.md)
 * [Activity 4.2](activity-4.2.md)
+* [Activity 5.1](activity-5.1.md)
+* [Activity 5.2](activity-5.2.md)
+* [Activity 5.3](activity-5.3.md)
+* [Activity 6.1](activity-6.1.md)
+* [Activity 6.2](activity-6.2.md)
+* [Activity 6.3](activity-6.3.md)
 
